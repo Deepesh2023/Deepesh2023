@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
 <h3 align="center">Web developer and desktop Linux enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepesh2023" alt="deepesh2023" /></a> </p>
 
 - 🔭 I’m currently working on [FullStackOpen](https://fullstackopen.com/en/)
 
@@ -13,13 +12,6 @@
 
 - ⚡ Fun fact **I am Toph from Avatar the last Airbender**
 
-- - uses: Platane/snk@v3
-  with: github_user_name: ${{ github.repository_owner }}
-
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
 
