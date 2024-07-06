@@ -5,8 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deepesh2023" alt="Deepeh's Github stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Deepesh2023&theme=dracula&show_icons=true" alt="Deepeh's Github stats">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh2023&theme=dracula&layout=donut-vertical" alt="Top languages used by Deepesh">
   </a>
 </p>
 
